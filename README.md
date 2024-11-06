@@ -1,8 +1,3 @@
-<div align=center> 
-    <p style="font-size:3em;">
-        <img src="https://tylereshelman.com/img/godot-icon.png" alt="VS icon" width=35px><b> Godot Demonstration</b>
-   </p>
-</div>
 <div align="center">
 	<a href="https://tfeshelman.github.io/Godot-Demo" target="_blank">
 		<img src="https://tylereshelman.com/img/godot-ui-2.png" alt="My website header"/>
